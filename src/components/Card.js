@@ -1,5 +1,4 @@
 import '../App.css';
-import productImage from '../images/image-product-desktop.jpg';
 import cartIcon from '../images/icon-cart.svg'
 
 export default function Card(){
